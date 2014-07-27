@@ -338,7 +338,7 @@ int main(void) {
     //pterozaur();
     //tyranozaur();
     //czesc();
-    //plywanie();
+    plywanie();
 
     //liczba();
     //wielkosc();
